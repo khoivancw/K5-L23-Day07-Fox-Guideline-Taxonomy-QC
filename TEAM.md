@@ -1,8 +1,8 @@
 # Thông tin nhóm
 
 - Tên nhóm: Fox
-- Repo bài nộp (URL):
-- Commit chốt bài (hash):
+- Repo bài nộp (URL): https://github.com/khoivancw/K5-L23-Day07-Fox-Guideline-Taxonomy-QC
+- Commit chốt bài (hash): 1e53d9d
 - Số thành viên: 3  → số người gán mỗi ảnh (K): 2
 
 | STT | MSHV | Họ và tên | Lớp (L2 / L3 / khác) | Tài khoản GitHub |
